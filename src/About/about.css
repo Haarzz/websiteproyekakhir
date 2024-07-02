@@ -1,0 +1,6 @@
+.rounded-image {
+    border-radius: 50%; /* Makes the image circular */
+    width: 5cm; /* Sets the width of the image to 5cm */
+    height: 5cm; /* Sets the height of the image to 5cm */
+    object-fit: cover; /* Ensures the image covers the entire area */
+}
